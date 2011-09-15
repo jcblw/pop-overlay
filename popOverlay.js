@@ -1,5 +1,5 @@
 /*
-* Pop-Overlay 1 alpha - jQuery plugin
+* Pop-Overlay 0.2  - jQuery plugin
 *
 * Copyright (c) 2011 Jacob Lowe (http://redeyeoperations.com)
 * Dual licensed under the MIT (MIT-LICENSE.txt)
@@ -9,18 +9,6 @@
 * http://jquery.com
 */
 
-/*
-* Pop-Overlay 1.2  - jQuery plugin
-*
-* Copyright (c) 2011 Jacob Lowe (http://redeyeoperations.com)
-* Dual licensed under the MIT (MIT-LICENSE.txt)
-* and GPL (GPL-LICENSE.txt) licenses.
-*
-* Built for jQuery library
-* http://jquery.com
-*/
-
-// Pop Overlay Plugin
 
 (function ($) {
   
